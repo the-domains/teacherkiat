@@ -1,14 +1,22 @@
 layout_spectrum: 1
-typography_spectrum: 0.4013491
+name: Teacherkiat
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
-  lightness: 0.2748735
-  brandStrength: 0.4642404
-  saturation: 0.6399662
+  brandStrength: 0.846543
+  lightness: 0.7925801
+  saturation: 0.7251265
   rhythmicContrast: 0.8086004
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-name: Teacherkiat
+    - '#000101'
+typography_spectrum: 0.4055649
