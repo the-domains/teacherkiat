@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.4013491
+color:
+  lightness: 0.2748735
+  brandStrength: 0.4642404
+  saturation: 0.6399662
+  rhythmicContrast: 0.8086004
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Teacherkiat
