@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Teacherkiat]]></title>
+        <description><![CDATA[Teacherkiat]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 10 Feb 2016 23:00:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Thomas Jefferson - on why we lead, why we do what we need to do and why we effect change :) ]]></title>
+            <description><![CDATA[<article><h1>Thomas Jefferson - on why we lead, why we do what we need to do and why we effect change :) </h1><p>We will be soldiers, so our sons may be farmers, so their sons may be artists."</p></article>]]></description>
+            <link>undefinedthomas-jefferson-on-why-we-lead-why-we-do-what-we-need-to/index.html</link>
+            <guid isPermaLink="false">d1a07d42-966e-4795-b2bc-582c1a5c7422</guid>
+            <pubDate>Wed, 10 Feb 2016 23:00:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
