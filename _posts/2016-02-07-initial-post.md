@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'A whimper of an entrance '
-datePublished: '2016-02-07T14:38:44.951Z'
-dateModified: '2016-02-07T14:38:24.466Z'
-title: Initial Post
+datePublished: '2016-02-10T12:00:45.713Z'
+dateModified: '2016-02-07T14:40:36.456Z'
+title: ''
 author: []
+sourcePath: _posts/2016-02-07-initial-post.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-07-initial-post.md
-published: true
 url: initial-post/index.html
 _type: Article
 
