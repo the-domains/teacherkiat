@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Teacherkiat]]></title>
         <description><![CDATA[Teacherkiat]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/teacherkiat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 14:38:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 12:01:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/teacherkiat/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Initial Post]]></title>
             <description><![CDATA[<article><h1>Initial Post</h1><p>Random stream of thoughts & reflections</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6dc419b88e65e09e692af6a19ec13891dfc087b.png"></article>]]></description>
-            <link>undefinedinitial-post/index.html</link>
+            <link>https://thegrid.ai/teacherkiat/initial-post/index.html</link>
             <guid isPermaLink="false">5fe70a0a-c28e-47df-bc82-5301f85d72b0</guid>
-            <pubDate>Sun, 07 Feb 2016 14:38:44 GMT</pubDate>
+            <pubDate>Wed, 10 Feb 2016 12:00:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
