@@ -1,22 +1,28 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:1d200da1-5636-42d7-814e-e2fe8028d814'
+inLanguage: null
+starred: false
+keywords: []
 description: 'We will be soldiers, so our sons may be farmers, so their sons may be artists.&quot;'
+datePublished: '2016-02-12T02:50:24.394Z'
+dateModified: '2016-02-12T02:49:07.752Z'
 author: []
-datePublished: '2016-02-10T23:00:11.412Z'
-publisher:
-  domain: ''
-  name: ''
-dateModified: '2016-02-10T22:57:49.679Z'
-title: 'Thomas Jefferson - on why we lead, why we do what we need to do and why we effect change :) '
+title: "\"We will be soldiers, so our sons may be farmers, so their sons may be artists.\" -\_Thomas Jefferson\_"
 sourcePath: _posts/2016-02-10-thomas-jefferson-on-why-we-lead-why-we-do-what-we-need-to.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: thomas-jefferson-on-why-we-lead-why-we-do-what-we-need-to/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
 ---
-# Thomas Jefferson - on why we lead, why we do what we need to do and why we effect change :) 
+# "We will be soldiers, so our sons may be farmers, so their sons may be artists." - Thomas Jefferson 
 
-We will be soldiers, so our sons may be farmers, so their sons may be artists."
+on why we lead, why we do what we need to do and why we effect change
